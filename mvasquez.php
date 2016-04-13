@@ -2,6 +2,8 @@
 
 echo "Hola este es código php";
 
-echo "Saludos"
+echo "Saludos";
+
+echo "Linea agregada posteriormente";
 
 ?>
