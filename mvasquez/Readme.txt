@@ -1,5 +1,3 @@
-Carpeta usuario mvasquez
-
-Correo: mavmfi@hotmail.com
+Carpeta usuario Mario Vasquez
 
 Desarrollo Seguro 
